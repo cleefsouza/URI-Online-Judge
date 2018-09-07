@@ -1,11 +1,11 @@
 # Uri Online Judge
 
-## Folder organization
+## Organização da Pasta
 
-### 1. Resolved
+### 1. Resolvidos
 
-Codes that were accepted by the platform on specific issues.
+Códigos que foram aceitos pela plataforma.
 
-### 2. Tried
+### 2. Tentados
 
-Codes that subimeti but did not get results.
+Códigos tentados, sem submissão ou incompletos.
