@@ -1,4 +1,4 @@
-# Uri Online Judge
+# uri-online-judge
 
 ## Organização da Pasta
 
